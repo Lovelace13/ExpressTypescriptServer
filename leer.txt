@@ -1,0 +1,6 @@
+npm install -g ts-node typescript para tenerlo en ambiente de desarrollo local
+
+npm install -D @types/express typescript ts-node
+    typescript = compilador
+    ts-node = enables running typescript files directly with node.js
+    @types/express = provides typescript definitions for express
