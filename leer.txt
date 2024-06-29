@@ -1,3 +1,5 @@
+Instalar typescript globalmente
+
 npm install -g ts-node typescript para tenerlo en ambiente de desarrollo local
 
 npm install -D @types/express typescript ts-node

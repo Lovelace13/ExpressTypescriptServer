@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/app.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prueba": "tsc src/app.ts --target esnext --moduleResolution node  --module commonjs"
   },
   "author": "Katiuska Marin",
   "license": "ISC",
